@@ -34,11 +34,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Teleki Blanka Secondary School of Economics (2014)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Hungarian A-Level/GCSE
+
+#### University of Greenwich (September 2017 - deferred)
+
+- Primary Education
 
 #### Any other qualifications
 
