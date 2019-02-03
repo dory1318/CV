@@ -61,22 +61,22 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**Oz Solutions Ltd ** London, UK (March 2017 - )    
+**Oz Solutions Ltd** London, UK (March 2017 - )    
 *Personal Assistant*  
 - organising and booking trips, flights, accommodations; handling phone calls; light bookkeeping of client’s business; other ad-hoc duties
 
-**CLC World ** London, UK (August - October 2018)   
+**CLC World** London, UK (August - October 2018)   
 *Travel Consultant/Sales Representative*  
 - welcoming clients, presentation about the company and product, closing sale
 
-**Peru Vivential ** Trujillo, Peru (January - March 2017)  
+**Peru Vivential** Trujillo, Peru (January - March 2017)  
 *Teacher*
 - teaching English for kids 6-14 years old in local Primary Schools
 
-**Self-employed ** London, UK (July 2016 - )
+**Self-employed** London, UK (July 2016 - )
 - Therapist
 - Yoga teacher
 
-**Apartamentos Morromar ** Lanzarote, Spain (June - November 2014)
+**Apartamentos Morromar** Lanzarote, Spain (June - November 2014)
 *Receptionist*
 Handling of bookings, check-in/check-out, dealing with customer’ requests and complaints, organising excursions, other front office duties in English and Spanish.
