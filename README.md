@@ -1,5 +1,7 @@
 ## Dora Kemeny
 
+I am known as a patient, empathic and happy person who is open to the world and not afraid of the unknown. When I face challenges, I do not panic but try to find a solution either as a member of a team or by myself. I like to study, improve my skills and widen my knowledge, getting to know different cultures. One of my hobbies is language learning; the more language I speak, the more the world opens up for me.
+
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
 ## Skills
@@ -34,19 +36,41 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Teleki Blanka Secondary School of Economics (2014)
+#### Himalayan Yoga Association, Rishikesh, India (December 2018)
+
+- 300 hours Yoga Teacher Training
+- Ashtanga Yoga and Vinyasa flow
+- Yoga therapy
+- Ayurveda
+- Meditation
+
+#### University of Greenwich, London, UK (September 2017 - deferred)
+
+- Primary Education
+
+#### Teleki Blanka Secondary School of Economics, Budapest, Hungary (2014)
 
 - Hungarian A-Level/GCSE
 
-#### University of Greenwich (September 2017 - deferred)
-
-- Primary Education
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Oz Solutions Ltd ** London, UK (March 2017 - )    
+*Personal Assistant*  
+organising and booking trips, flights, accommodations; handling phone calls; light bookkeeping of client’s business; other ad-hoc duties
+
+**CLC World** London, UK (August - October 2018)   
+*Travel Consultant/Sales Representative*  
+welcoming clients, presentation about the company and product, closing sale
+
+**Peru Vivential ** Trujillo, Peru (January - March 2017)  
+*English Language Teacher*
+Teaching English for kids 6-14 years old in local Primary Schools
+
+**Self-employed** London, UK (June 2015 - December 2016)
+
+**Apartamentos Morromar** Lanzarote, Spain (June - November 2014)
+*Receptionist*
+Handling of bookings, check-in/check-out, dealing with customer’ requests and complaints, organising excursions, other front office duties in English and Spanish.
