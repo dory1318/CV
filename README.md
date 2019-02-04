@@ -10,13 +10,14 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
--	Organization
-- Problem-solving
--	Fast-learning
--	Adaptability
--	Flexibility
+-	Organization, Problem-solving
+Working as a personal assistent for over 2 years
+- Fast-learning, Adaptability, Flexibility
+Working abroad in international environment
 -	Creativity
+Planning my yoga classes
 -	Teamwork
+
 -	Foreign languages
 
 
@@ -80,3 +81,5 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **Apartamentos Morromar** Lanzarote, Spain (June - November 2014)
 *Receptionist*
 Handling of bookings, check-in/check-out, dealing with customer’ requests and complaints, organising excursions, other front office duties in English and Spanish.
+
+## Hobby, interests
