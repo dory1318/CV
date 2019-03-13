@@ -32,16 +32,17 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (07 January 2019 - )
+#### Makers Academy (04 February 2019 - )
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Agile methodologies
+- Object-oriented design
+- Test driven development and behaviour driven development
+- Pair programming
+- XP values
+- OOP, TDD, SOLID, MVC, DDD
+- Ruby, Rails, Javascript, Node.js
+- Rspec, Jasmine
+- HTML, CSS
 
 #### Himalayan Yoga Association, Rishikesh, India (December 2018)
 
